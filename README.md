@@ -5,4 +5,4 @@
 - 센서로 값을 받아와 농가 데이터로 모델링된 랜덤포레스트 모델을 통과하여 작물을 제시합니다.
 - 제시와 함께 작물의 재배 정보를 보여줍니다.
 
-## pickle을 이용하여 모델을 save, road 하였습니다. main.py가 로컬에서 실행되지 않으면 rf.py에서 csv read를 확인해주세요
+- pickle을 이용하여 모델을 save, road 하였습니다. main.py가 로컬에서 실행되지 않으면 rf_save.py와 rf.py에서 csv read를 확인해주세요
